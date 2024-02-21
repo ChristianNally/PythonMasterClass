@@ -1,0 +1,24 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="bcmt">
+<metadata/>
+<trk>
+	<name>BCMT Route</name>
+	<trkseg>
+		<trkpt lat="48.89122522995464" lon="-123.39297027436378"></trkpt>
+		<trkpt lat="48.89145096094407" lon="-123.40532989350439"></trkpt>
+		<trkpt lat="48.938380856392556" lon="-123.50352020112143"></trkpt>
+		<trkpt lat="48.9516846758632" lon="-123.56119842377761"></trkpt>
+		<trkpt lat="48.957997111934304" lon="-123.57561797944166"></trkpt>
+		<trkpt lat="48.95371376028174" lon="-123.57527465668777"></trkpt>
+		<trkpt lat="48.9505573710823" lon="-123.56875152436353"></trkpt>
+		<trkpt lat="48.944694975622184" lon="-123.55913848725419"></trkpt>
+		<trkpt lat="48.936576675605046" lon="-123.54883880463701"></trkpt>
+		<trkpt lat="48.897319608954845" lon="-123.50214691010581"></trkpt>
+		<trkpt lat="48.842203375618496" lon="-123.401747803365"></trkpt>
+		<trkpt lat="48.85124066980278" lon="-123.40930090395092"></trkpt>
+		<trkpt lat="48.87134279798096" lon="-123.39488134828686"></trkpt>
+		<trkpt lat="48.87721380601546" lon="-123.39213476625562"></trkpt>
+		<trkpt lat="48.88669628665041" lon="-123.40346441713451"></trkpt>
+		<trkpt lat="48.88985671401317" lon="-123.39591131654859"></trkpt>
+	</trkseg>
+	</trk>
+</gpx>
