@@ -21,6 +21,8 @@ i needed to [do this](https://stackoverflow.com/questions/67921192/5bad-argument
 
 [15 Minute Image Classifier: (Building a Neural Network with PyTorch in 15 Minutes | Coding Challenge)](https://www.youtube.com/watch?v=mozBidd58VQ)
 
+[Fine-tuning an Object Identifier Model](https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html)
+
 ## Natural Language Processing
 
 [Natural Language Processing: HuggingFace](https://huggingface.co/learn/nlp-course/chapter1/1)
@@ -45,9 +47,31 @@ i needed to [do this](https://stackoverflow.com/questions/67921192/5bad-argument
 - images
 - text
 
-# Deployments
+# Deployments (RAM, Disk Space and CPU all cost $ MONEY)
+
+There is a wide variety of possibilities when it comes to deployments, from
+- a preconfigured Jupyter Notebook on a fixed/provided/ugly URL
+
+through to 
+
+- your own custom UI on a custom domain name with outputs in the format most natural to your end-users
 
 [Introduction to FastAPI](https://www.youtube.com/watch?v=SORiTsvnU28)
+
+## platform.sh pricing
+- Free 30-day trial.
+- No credit card required to start.
+- Development environments only = $12.00/Month
+- Essential 0.65 vCPU & 0.65 GB RAM = $27.00/Month
+
+## porter
+- https://docs.porter.run/introduction
+- deploys to AWS, Azure, or Google Cloud
+- "If you’d like to learn more, contact us for a demo and pricing."
+
+## coherence
+- [100 builds per month for free*](https://docs.withcoherence.com/docs/overview/pricing#platform-fee)
+- You'll need an EC2 or GCP "free" account (which has limits you might blow over!)
 
 ## EC2 Instances
 
