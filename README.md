@@ -1,9 +1,9 @@
 # Prep
 
-Python: (Python in 100 Seconds)[https://www.youtube.com/watch?v=x7X9w_GIm1s]
+Python: [Python in 100 Seconds](https://www.youtube.com/watch?v=x7X9w_GIm1s)
 
 Side by Side Comparison between TensorFlow and PyTorch:
-(I built the same model with TensorFlow and PyTorch | Which Framework is better?)[https://www.youtube.com/watch?v=ay1E1f8VqP8]
+[I built the same model with TensorFlow and PyTorch | Which Framework is better?](https://www.youtube.com/watch?v=ay1E1f8VqP8)
 
 # Python Issues
 
