@@ -5,18 +5,11 @@ Python: (Python in 100 Seconds)[https://www.youtube.com/watch?v=x7X9w_GIm1s]
 Side by Side Comparison between TensorFlow and PyTorch:
 (I built the same model with TensorFlow and PyTorch | Which Framework is better?)[https://www.youtube.com/watch?v=ay1E1f8VqP8]
 
-
-<SOURCE>
-Uploading a File to a FastAPI server:
-https://stackoverflow.com/questions/70796124/fastapi-how-to-upload-file-via-html-form/70797993#70797993
-</SOURCE>
-
 # Python Issues
 
-<TODO>
-Q: What is the real difference between async await and 'normal' function definitions in a FastAPI app?
-A: https://stackoverflow.com/questions/71516140/fastapi-runs-api-calls-in-serial-instead-of-parallel-fashion/71517830#71517830
-</TODO>
+Question: What is the real difference between async await and 'normal' function definitions in a FastAPI app?
+
+[Answer](https://stackoverflow.com/questions/71516140/fastapi-runs-api-calls-in-serial-instead-of-parallel-fashion/71517830#71517830)
 
 # Types of Models
 
@@ -24,7 +17,7 @@ A: https://stackoverflow.com/questions/71516140/fastapi-runs-api-calls-in-serial
 
 [Computer Vision: OpenCV](https://opencv.org/about/)
 e.g. for 
-i needed to [do this:](https://stackoverflow.com/questions/67921192/5bad-argument-in-function-rectangle-cant-parse-pt1-sequence-item-wit)
+i needed to [do this](https://stackoverflow.com/questions/67921192/5bad-argument-in-function-rectangle-cant-parse-pt1-sequence-item-wit)
 
 [15 Minute Image Classifier: (Building a Neural Network with PyTorch in 15 Minutes | Coding Challenge)](https://www.youtube.com/watch?v=mozBidd58VQ)
 
@@ -41,6 +34,8 @@ i needed to [do this:](https://stackoverflow.com/questions/67921192/5bad-argumen
 - text files with JSON configuration parameters
 - image files
 
+[Uploading a File to a FastAPI server:](https://stackoverflow.com/questions/70796124/fastapi-how-to-upload-file-via-html-form/70797993#70797993)
+
 ### processing
 - statistical models
 - models based on science theories
@@ -52,7 +47,7 @@ i needed to [do this:](https://stackoverflow.com/questions/67921192/5bad-argumen
 
 # Deployments
 
-Introduction to FastAPI: https://www.youtube.com/watch?v=SORiTsvnU28
+[Introduction to FastAPI](https://www.youtube.com/watch?v=SORiTsvnU28)
 
 ## EC2 Instances
 
