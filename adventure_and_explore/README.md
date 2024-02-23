@@ -11,3 +11,7 @@ But if there is one thing that bootcamp alumni can do, it's learn a bunch of new
 # Play Precedes Innovation
 
 The games you play with today become the value and services of tomorrow.
+
+# Clarifai
+
+[Models, Datasets, Workflows... Oh My!](https://clarifai.com/explore/models)
