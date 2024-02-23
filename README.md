@@ -38,6 +38,8 @@ i needed to [do this](https://stackoverflow.com/questions/67921192/5bad-argument
 
 [Uploading a File to a FastAPI server:](https://stackoverflow.com/questions/70796124/fastapi-how-to-upload-file-via-html-form/70797993#70797993)
 
+[making matplotslib on the backend to serve directly](https://stackoverflow.com/questions/73754664/how-to-display-a-matplotlib-chart-with-fastapi-nextjs-without-saving-the-chart)
+
 ### processing
 - statistical models
 - models based on science theories
