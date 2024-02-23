@@ -2,7 +2,7 @@
 
 So many options!
 
-The big players include:
+# The Big Players
 
 [Amazon's AWS](https://aws.amazon.com/free/)
 
@@ -16,5 +16,7 @@ The big players include:
 [Google Cloud](https://cloud.google.com/)
 [Google Cloud Data Science](https://cloud.google.com/data-science)
 
+# Hugging Face
 
+[Hugging Face](https://huggingface.co/)
 
